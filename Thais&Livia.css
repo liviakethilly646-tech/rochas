@@ -1,0 +1,25 @@
+h1 {  
+    color: blue; 
+    background-color:LightPink;
+    border:1px solid black;
+}    
+u {
+  color: blue;
+}
+p{
+   color:Maroon;
+}
+
+#primeiro-título {
+  color: purple;
+  background-color: Beige;
+  border: 2px dotted LightCoral;
+  }  
+
+.par-principal {
+      background-color: hotpink;
+      color: Beige;
+      font: italic  small-caps bold 13px cursive;
+
+
+
